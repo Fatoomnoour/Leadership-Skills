@@ -25,4 +25,4 @@
 
 ## 🌐 عرض النسخة الحية
 يمكنك زيارة الموقع مباشرة من خلال الرابط التالي:
-[https://fatoomnoour.github.io/modules]
+[(https://fatoomnoour.github.io/Leadership-Skills/)]
